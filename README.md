@@ -16,7 +16,12 @@ An interactive, stylish gallery to showcase memorable moments from college life.
 - 🎨 Animated transitions and cool background effects
 
 ---
+## 📸 Demo
 
+Live Preview: [Click Here](https://github.com/Sabita-35/PhotoGalleery)  
+*(Replace with your actual hosted link)*
+
+---
 
 
 ## 🧰 Technologies Used
